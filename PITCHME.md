@@ -1,5 +1,10 @@
----?image=assets/images/lets-get-started.jpg&size=auto 90%&color=black
-@title[Introduction]
+<!---hhhh?image=assets/images/lets-get-started.jpg&size=auto 90%&color=black--->
+@title[Inference Under the coalescent with recombination]
+
+# Ali Mahmoudi
+## Supervisors: Prof. David Balding & Dr. Yao-ban Chan
+
+<br>
 
 ---?image=assets/images/face.jpg&position=left&size=55% 100%&color=#020203
 @title[Get Ready]
