@@ -1,6 +1,6 @@
 <!---hhhh?image=assets/images/lets-get-started.jpg&size=auto 90%&color=black--->
 @title[Inference Under the coalescent with recombination]
-
+@snap[north] 
 # Ali Mahmoudi
 ## Supervisors: Prof. David Balding & Dr. Yao-ban Chan
 
